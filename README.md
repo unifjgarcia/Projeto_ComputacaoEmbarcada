@@ -1,4 +1,4 @@
-# PROJETO-1---COMPUTA-O-EMBARCADA
+# PROJETO COMPUTAÇÃO EMBARCADA
 
 1. Introdução
 Projeto: Jogo da Memória e Jogo de Perguntas
